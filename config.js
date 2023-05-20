@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['918822469980', 'asashi', true],
+  ['917576026856', 'sungmin', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['917605902011', '32460248586', '919398758484']
+global.mods = ['918822469980','917576026856'] 
+global.prems = ['918822469980','917576026856']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,15 +47,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ selena-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.packname = 'selena┃ᴮᴼᵀ' 
+global.author = '@asashikun' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asashi_kunn\n' 
+global.dygp = 'https://chat.whatsapp.com/KNKVkHCtRfxGNSrM0MRAEa'
+global.fgsc = 'https://wa.me/918822469980?text=order+please+help+me+as+i+am+very+fu*ked' 
+global.fgyt = 'https://youtube.com/@inzentrex69'
+global.fgpyp = 'https://youtube.com/@inzentrex69'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
